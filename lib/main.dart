@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
                 ),
               );
             },
-            child:const Text('Go to Button1 '),
+            child:const Text('Go to Hell '),
           ),
         ),
       ),
