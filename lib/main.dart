@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
                 ),
               );
             },
-            child:const Text('Go to Button1 Screens'),
+            child:const Text('Go to Button1 Screens Go to Button1 Screens'),
           ),
         ),
       ),
